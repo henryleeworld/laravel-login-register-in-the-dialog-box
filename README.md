@@ -1,4 +1,4 @@
-# Laravel 10 在互動視窗中進行登入／註冊
+# Laravel 11 在互動視窗中進行登入／註冊
 
 在互動視窗中進行輸入使用者的電子郵件地址和密碼，和註冊新的帳號，以期提高會員轉換率，並確保用戶可以輕鬆關閉它，而且短時間之內不會反覆地出現。
 
@@ -35,11 +35,11 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/pBycSP4.png)
+![](https://i.imgur.com/SKstKMW.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/InU9Jax.png)
+![](https://i.imgur.com/IWkBORw.png)
 > 使用現有的帳號登入
 
-![](https://i.imgur.com/VKNNkb7.png)
+![](https://i.imgur.com/53Mm5Dy.png)
 > 假如登入帳號失敗的話，會重新打開登入互動視窗並顯示錯誤訊息
