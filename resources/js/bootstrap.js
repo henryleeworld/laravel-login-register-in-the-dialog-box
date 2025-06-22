@@ -1,7 +1,7 @@
 import 'bootstrap';
+import * as bootstrap from 'bootstrap';
 import axios from 'axios';
 import jQuery from 'jquery';
-import * as bootstrap from 'bootstrap';
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
